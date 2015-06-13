@@ -1,0 +1,31 @@
+{
+  "name": "charcode-display",
+  "main": "./lib/charcode-display",
+  "version": "0.1.0",
+  "description": "Display the code of the character under the current cursor position in the status bar.",
+  "keywords": [
+    "char",
+    "character",
+    "code",
+    "status",
+    "bar"
+  ],
+  "repository": "https://github.com/yonchu/charcode-display",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.10"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "devDependencies": {
+    "coffeelint": "^1.10.1"
+  }
+}
