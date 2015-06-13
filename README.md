@@ -2,6 +2,8 @@
 
 Display the code of the character under the current cursor position in the status bar.
 
+Atom.io Package Page: [charcode-display](https://atom.io/packages/charcode-display)
+
 ![screenshot01](https://raw.github.com/yonchu/charcode-display/master/img/screenshot01.png)
 
 ## Configuration
