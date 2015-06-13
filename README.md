@@ -10,5 +10,4 @@ charcode-display.charcodeDisplayFormat — A string that describes the format to
 
 ## TODO
 
-* lint
-* github tag
+* Support Travis CI and shows status badges.
