@@ -1,7 +1,7 @@
 {
   "name": "charcode-display",
   "main": "./lib/charcode-display",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Display the code of the character under the current cursor position in the status bar.",
   "keywords": [
     "char",
